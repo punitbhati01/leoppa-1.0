@@ -72,7 +72,7 @@ export default function Footer() {
                                     Email: leoppa@gmail.com
                                 </Typography>
                                 <Typography variant="body2" color="text.secondary">
-                                    Phone: +91 9250015009
+                                    Phone: +91 9958055807
                                 </Typography>
                             </Grid>
                             <Grid item xs={12} sm={4}>
